@@ -1,4 +1,6 @@
 # static.lzc.app
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fstatic.lzc.app%2F&style=for-the-badge&label=static.lzc.app)
  
 ## Font Awesome
 
