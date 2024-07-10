@@ -17,5 +17,5 @@
 ```
 
 ```html
-@import url('https://static.lzc.app/fonts/segoeui/')
+@import url('https://static.lzc.app/fonts/segoeui/');
 ```
