@@ -4,6 +4,18 @@
  
 ## Font Awesome
 
-```
+```html
 <link rel="stylesheet" href="https://static.lzc.app/fontawesome/css/all.css" >
  ```
+
+## Fonts
+
+### Segoe UI
+
+```html
+<link rel="stylesheet href="https://static.lzc.app/fonts/segoeui/">
+```
+
+```html
+@import url('https://static.lzc.app/fonts/segoeui/')
+```
