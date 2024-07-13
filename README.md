@@ -19,3 +19,17 @@
 ```html
 @import url('https://static.lzc.app/fonts/segoeui/');
 ```
+
+## Pages 
+
+### Domain Seized
+
+<https://static.lzc.app/pages/seized/>
+
+### Fan Zha
+
+<https://static.lzc.app/pages/fanzha/>
+
+### Xiaomi CAC Warning
+
+<https://static.lzc.app/pages/cac/>
