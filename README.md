@@ -4,7 +4,7 @@
  
 ## Font Awesome
 
-From `@Doniws`'s [FontAwesome6Pro](https://github.com/Doniws/FontAwesome6Pro)
+From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalendarTest)
 
 ```html
 <link rel="stylesheet" href="https://static.lzc.app/fontawesome/css/all.css" >
