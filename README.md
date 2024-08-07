@@ -22,7 +22,7 @@ From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalend
 <link rel="stylesheet href="https://static.lzc.app/fonts/segoeui/">
 ```
 
-```html
+```css
 @import url('https://static.lzc.app/fonts/segoeui/');
 ```
 
