@@ -7,8 +7,12 @@
 From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalendarTest)
 
 ```html
-<link rel="stylesheet" href="https://static.lzc.app/fontawesome/css/all.css" >
+<link rel="stylesheet" href="https://static.lzc.app/fontawesome/css/all.min.css">
  ```
+
+```html
+<script type="text/javascript" src="https://static.lzc.app/fontawesome/js/all.min.js"></script>
+```
 
 ## Fonts
 
