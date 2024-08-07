@@ -4,6 +4,8 @@
  
 ## Font Awesome
 
+From `@Doniws`'s [FontAwesome6Pro](https://github.com/Doniws/FontAwesome6Pro)
+
 ```html
 <link rel="stylesheet" href="https://static.lzc.app/fontawesome/css/all.css" >
  ```
