@@ -28,14 +28,14 @@ From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalend
 
 ## Pages 
 
-### Domain Seized
+- Domain Seized
+  
+  <https://static.lzc.app/pages/seized/>
 
-<https://static.lzc.app/pages/seized/>
+- Fan Zha
+  
+  <https://static.lzc.app/pages/fanzha/>
 
-### Fan Zha
-
-<https://static.lzc.app/pages/fanzha/>
-
-### Xiaomi CAC Warning
-
-<https://static.lzc.app/pages/cac/>
+- Xiaomi CAC Warning
+  
+  <https://static.lzc.app/pages/cac/>
