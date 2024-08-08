@@ -19,7 +19,7 @@ From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalend
 ### Segoe UI
 
 ```html
-<link rel="stylesheet href="https://static.lzc.app/fonts/segoeui/">
+<link rel="stylesheet" href="https://static.lzc.app/fonts/segoeui/">
 ```
 
 ```css
