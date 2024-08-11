@@ -39,3 +39,7 @@ From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalend
 - Xiaomi CAC Warning
   
   <https://static.lzc.app/pages/cac/>
+
+- IIS Windows Server
+  
+  <https://static.lzc.app/pages/iis/>
