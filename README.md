@@ -31,6 +31,8 @@ From `@dreckner`'s [BlazorCalendarTest](https://github.com/dreckner/BlazorCalend
 - Domain Seized
   
   <https://static.lzc.app/pages/seized/>
+  
+  <https://static.lzc.app/pages/seized2/>
 
 - Fan Zha
   
