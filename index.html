@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>static.lzc.app</title>
+    <meta name="description" content="Static resources for *.lzc.app">
+    <style>
+        :root {
+            --bg: #fafaf8;
+            --ink: #1a1a1a;
+            --muted: #6b6b66;
+            --accent: #b3372b;
+            --rule: #e4e2dc;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: var(--bg);
+            color: var(--ink);
+            font: 16px/1.7 Georgia, "Times New Roman", "Songti SC", "SimSun", serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        main { max-width: 32rem; width: 100%; }
+        h1 {
+            font-size: clamp(2rem, 6vw, 2.85rem);
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            line-height: 1.15;
+        }
+        .tag {
+            color: var(--muted);
+            margin-top: 0.5rem;
+            font-size: 0.95rem;
+        }
+        hr {
+            border: 0;
+            border-top: 1px solid var(--rule);
+            margin: 2rem 0;
+        }
+        .resume {
+            display: inline-block;
+            font-size: 1.15rem;
+            color: var(--ink);
+            text-decoration: none;
+            border-bottom: 1px solid var(--rule);
+            padding-bottom: 0.15rem;
+        }
+        .resume:hover { color: var(--accent); border-bottom-color: var(--accent); }
+        .resume .arrow { color: var(--accent); }
+        .note {
+            margin-top: 2.5rem;
+            color: var(--muted);
+            font-size: 0.85rem;
+        }
+        .note a { color: var(--accent); text-decoration: none; }
+        .note a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+<main>
+    <h1>static.lzc.app</h1>
+    <p class="tag">静态资源站点 · Static resources for *.lzc.app</p>
+    <hr>
+    <a class="resume" href="https://resume.lzc.app">简历 / Resume <span class="arrow">&rarr;</span></a>
+    <p class="note">
+        简历已迁移至 <a href="https://resume.lzc.app">resume.lzc.app</a>。
+        本站仅提供静态资源（Font Awesome、字体、页面素材）托管。
+    </p>
+</main>
+</body>
+</html>
